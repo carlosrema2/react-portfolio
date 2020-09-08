@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl": "https://joshkuruvilla512.github.io/",
+    "imagebaseurl": "https://carlosrema2.github.io/",
     "name": "Carlos Reyes",
     "role": "Full Stack Developer",
     "linkedinId": "Your LinkedIn Id",
@@ -8,36 +8,36 @@ let resumeData = {
     "socialLinks": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/joshua-kuruvilla/",
+        "url": "https://www.linkedin.com/in/carlos-a-reyes-688537b4/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "github",
-        "url": "http://github.com/joshkuruvilla512",
+        "url": "https://github.com/carlosrema2/",
         "className": "fa fa-github"
       },
-      {
-        "name": "skype",
-        "url": "http://twitter.com/JoshuaKuruvilla",
-        "className": "fa fa-twitter"
-      }
+    //   {
+    //     "name": "skype",
+    //     "url": "",
+    //     "className": "fa fa-twitter"
+    //   }
     ],
     "aboutme": "I am a Full Stack Developer with background experience in the Automotive Industry",
-    "address": "Austin, TX",
-    "website": "https://react-portfolio-ut.herokuapp.com/",
+    "address": "Richmond, VA",
+    "website": "",
     "education": [
       {
-        "UniversityName": "University of Texas at Austin",
+        "UniversityName": "Northwestern University",
         "specialization": "Full Stack Development",
-        "MonthOfPassing": "March",
+        "MonthOfPassing": "September",
         "YearOfPassing": "2020",
         "Achievements": "Certificate"
       },
       {
-        "UniversityName": "Oakland University",
-        "specialization": "Marketing",
-        "MonthOfPassing": "April",
-        "YearOfPassing": "2017",
+        "UniversityName": "El Bosque University",
+        "specialization": "Electronics and Computers Engineering",
+        "MonthOfPassing": "Febrary",
+        "YearOfPassing": "2011",
         "Achievements": "Bachelors"
       }
     ],
