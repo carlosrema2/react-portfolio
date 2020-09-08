@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import {BrowserRouter as Router, Switch, Route, Link} from 'react-router-dom';
+import {BrowserRouter as Router, Link} from 'react-router-dom';
 export default class Porfolio extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -15,11 +15,13 @@ export default class Porfolio extends Component {
             resumeData.portfolio && resumeData.portfolio.map((item)=>{
               return(
                 <div className="columns portfolio-item">
+                   
                   <div className="item-wrap">
                       <img src={item.imgurl} alt="portfolio" className="item-img"/>
                       <div className="overlay">
-                    <Link to={item.imglink}>
-                        <div className="portfolio-item-meta">
+                     
+                      <Link to="chart" target="_blank" to={item.imglink} >
+                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>
                           <p>{item.description}</p>
                         </div>

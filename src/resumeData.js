@@ -36,60 +36,50 @@ let resumeData = {
       {
         "UniversityName": "El Bosque University",
         "specialization": "Electronics and Computers Engineering",
-        "MonthOfPassing": "Febrary",
+        "MonthOfPassing": "February",
         "YearOfPassing": "2011",
         "Achievements": "Bachelors"
       }
     ],
     "work": [
       {
-        "CompanyName": "Dürr Systems",
-        "specialization": "Logistics Manager",
-        "MonthOfLeaving": "July",
-        "YearOfLeaving": "2018-November 2019",
-        "Achievements": "Worked to make sure that the parts and equipment are delivered to the installation team on time and in the condition required for proper installation"
-        /* <li>
-          <p>Works to make sure that the parts and equipment are delivered to
-        the installation team on time and in the condition required for proper installation</p>
-        </li>
-        <li>
-          <p>Participated in Pre Installation Planning/Scheduling meetings to develop the logistics plan</p>
-        </li>
-        <li>
-          <p>Used SAP for tracking/identifying parts on arrival at site and properly label parts so they can be located in the installation plan
-            </p>
-        </li>
-        <li>
-      <p>Trained People in Durr’s Logistics Management procedures</p>
-        </li>
-      </ul> */
+        "CompanyName": "Northwestern University",
+        "specialization": "Web Developer/ IT User Services Representative",
+        "MonthOfLeaving": "November",
+        "YearOfLeaving": "2018-September2020",
+        "Achievements": "Implement software used in classrooms and virtual classroom learning, providing technical support to maintain a positive relationship with all students, faculty members, and staff through effective communication while explaining technology in an easy to understand everyday language. Refactoring front and back ends of JavaScript, node.js with MySQL database web applications, as well as developing projects that involve building user-facing websites, working with internal clients during the planning and delivery phases of projects."
+       
       },
       {
-        "CompanyName": "Nissan Automotive of North America",
-        "specialization": "Purchasing Analyst",
-        "MonthOfLeaving": "May",
-        "YearOfLeaving": "2017-June 2018",
-        "Achievements": "Analyze cost reduction data and related processes while making recommendations for improvement when possible"
+        "CompanyName": "PAUL PADDA LAW",
+        "specialization": "Full Stack Developer",
+        "MonthOfLeaving": "April",
+        "YearOfLeaving": "2020-Present",
+        "Achievements": "Implement design tasks involved in the web development life cycle from start to finish using standard coding languages as Javascript, node.js, JS, HTML, and CSS. Implement a contingency plan in case the website goes down, maintain and expand the website once it is built and goes LIVE. Slashed with cross-functionally web Applications to enhance the overall user experience of platforms. Administration if Search Engine Optimization (SEO)."
       }
     ],
     "skillsDescription": "",
     "skills": [
       {
-        "skillname": "HTML5"
+        "skillname": "HTML5, CSS"
       },
       {
-        "skillname": "CSS"
+        "skillname": "JavaScript"
       },
       {
         "skillname": "Reactjs"
       }
+      ,
+      {
+        "skillname": "WordPress"
+      }
     ],
     "portfolio": [
       {
-        "name": "Colossal Hogs",
+        "name": "Brew",
         "description": "The PACK IS BACK",
         "imgurl": "./images/ColossalHogs.png",
-        "imglink": "https://the-pack-is-back.herokuapp.com/"
+        "imglink": "https://carlosrema2.github.io/untitledP1/index.html/"
       },
       {
         "name": "Team Generator",
