@@ -24,7 +24,7 @@ let resumeData = {
     ],
     "aboutme": "I am a Full Stack Developer with background experience in the Automotive Industry",
     "address": "Richmond, VA",
-    "website": "",
+    "website": "https://github.com/carlosrema2/",
     "education": [
       {
         "UniversityName": "Northwestern University",
@@ -79,7 +79,7 @@ let resumeData = {
         "name": "Brew",
         "description": "The PACK IS BACK",
         "imgurl": "./images/ColossalHogs.png",
-        "imglink": "https://carlosrema2.github.io/untitledP1/index.html/"
+        "imglink": "https://carlosrema2.github.io/untitledP1/index.html"
       },
       {
         "name": "Team Generator",
