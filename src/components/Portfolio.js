@@ -16,16 +16,16 @@ export default class Porfolio extends Component {
                 <div className="row">
                  
                   <div className="columns">
-                  <a href="https://carlosrema2.github.io/untitledP1/index.html"> <img src="./images/ColossalHogs.png" alt="portfolio" className="item-img"  /></a>
+                  <a href="https://carlosrema2.github.io/untitledP1/index.html">Brewery locations <img src="./images/imageBrew.jpeg" alt="portfolio" className="item-img"  /></a>
                   </div>
                   <div className="columns">
-                  <a href="https://carlosrema2.github.io/untitledP1/index.html"> <img src="./images/ColossalHogs.png" alt="portfolio" className="item-img"  /></a>
+                  <a href="https://workouttraker.herokuapp.com/"> Workout Tracker<img src="./images/workout.jpg" alt="portfolio" className="item-img"  /></a>
                   </div>
                   <div className="columns">
-                  <a href="https://carlosrema2.github.io/untitledP1/index.html"> <img src="./images/ColossalHogs.png" alt="portfolio" className="item-img"  /></a>
+                  <a href="https://nw-bookclub2020.github.io/FrontEnd.github.io/">The Book Club<img src="./images/thebook.jpg" alt="portfolio" className="item-img"  />(User:carlos Email:carlos@gmail.com)</a>
                   </div>
                   <div className="columns">
-                  <a href="https://carlosrema2.github.io/untitledP1/index.html"> <img src="./images/ColossalHogs.png" alt="portfolio" className="item-img"  /></a>
+                  <a href="https://carlosrema2.github.io/">BootStrap Portfolio<img src="./images/notet.png" alt="portfolio" className="item-img"  /></a>
                   </div>
                   </div>
                 
