@@ -12,23 +12,24 @@ export default class Porfolio extends Component {
           <h1>Check Out Some of My Work!</h1>
           <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
           {
-            resumeData.portfolio && resumeData.portfolio.map((item)=>{
-              return(
-                <div className="columns portfolio-item">
-                  <div className="item-wrap">
-                      <img src={item.imgurl} alt="portfolio" className="item-img"/>
-                      <div className="overlay">
-                    <Link to={item.imglink}>
-                        <div className="portfolio-item-meta">
-                          <h5>{item.name}</h5>
-                          <p>{item.description}</p>
-                        </div>
-                    </Link>
-                      </div>
+            
+                <div className="row">
+                 
+                  <div className="columns">
+                  <a href="https://carlosrema2.github.io/untitledP1/index.html"> <img src="./images/ColossalHogs.png" alt="portfolio" className="item-img"  /></a>
                   </div>
-                </div>
-              )
-            })
+                  <div className="columns">
+                  <a href="https://carlosrema2.github.io/untitledP1/index.html"> <img src="./images/ColossalHogs.png" alt="portfolio" className="item-img"  /></a>
+                  </div>
+                  <div className="columns">
+                  <a href="https://carlosrema2.github.io/untitledP1/index.html"> <img src="./images/ColossalHogs.png" alt="portfolio" className="item-img"  /></a>
+                  </div>
+                  <div className="columns">
+                  <a href="https://carlosrema2.github.io/untitledP1/index.html"> <img src="./images/ColossalHogs.png" alt="portfolio" className="item-img"  /></a>
+                  </div>
+                  </div>
+                
+             
           }
           </div>
         </div>
